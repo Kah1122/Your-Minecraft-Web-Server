@@ -1,6 +1,7 @@
 # Minecraft Server Status Web (Personal Project)
 
 This is a small personal project for fun.
+<img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/c193f480-d30b-4318-8bfc-283e637378a8" />
 
 The website uses the **mcstatus.io API** to fetch and display Minecraft server data directly on a web page.
 
@@ -34,8 +35,10 @@ Data fetched includes:
 
 ```js
 const api = "https://api.mcstatus.io/v2/status/java/hypixel.net"
+
 ```
 3. Replace hypixel.net with your own Minecraft server IP, for example:
 ```js
 const api = "https://api.mcstatus.io/v2/status/java/play.example.com"
 ```
+
