@@ -1,4 +1,5 @@
-# Minecraft Server Status Web (Personal Project)
+# Minecraft Server Status Web
+Example Web: https://kah1122.github.io/Your-Minecraft-Web-Server/
 
 This is a small personal project for fun.
 <img width="1365" height="607" alt="image" src="https://github.com/user-attachments/assets/c193f480-d30b-4318-8bfc-283e637378a8" />
